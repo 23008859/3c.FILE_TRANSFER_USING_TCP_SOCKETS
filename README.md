@@ -57,11 +57,10 @@ print('connection closed')
 
 ```
 ## OUPUT:
-## Server
+
 ![image](https://github.com/23008859/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/139117979/e6a09c50-3704-4d76-bcae-fa2dc38f8ce8)
 
-## Client:
-![image](https://github.com/23008859/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/139117979/b61dd537-6876-4d95-88d3-9dcf9364b072)
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
